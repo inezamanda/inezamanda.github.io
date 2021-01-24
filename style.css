@@ -37,7 +37,7 @@ header {
   transition: 0.5s;
 }
 
-header.sticky /*efek transition saat scroll ke bawah*/
+header.sticky /* transition effect of header when scrolling down */
 {
     background: #333;
     box-shadow: 0 0.1rem 0.5rem rgba(51, 51, 51, 0.5);
